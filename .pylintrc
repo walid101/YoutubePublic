@@ -1,0 +1,25 @@
+[MASTER]
+
+# Specify which message types are enabled
+enable = F,E,W,C,R
+
+# Disable specific checks if needed
+disable = missing-docstring
+
+[MESSAGES CONTROL]
+
+# Disable specific messages by message code
+disable = C0103, C0114, C0115, C0116, C0111, R0903
+
+# Enable checking of line length
+max-line-length = 120
+
+[FORMAT]
+
+# Specify how to format output messages
+max-line-length = 120
+
+[REPORTS]
+
+# Disable online report generation
+reports = no

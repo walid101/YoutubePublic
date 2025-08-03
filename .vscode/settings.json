@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "python.linting.enabled": false,
+  "python.linting.pylintArgs": ["--disable=all", "--enable=E"],
+  "editor.formatOnSave": true,
+  "discord.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

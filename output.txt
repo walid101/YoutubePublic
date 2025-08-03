@@ -1,0 +1,7 @@
+MINGW64_NT-10.0-22631 3.4.10-87d57229.x86_64
+Unsupported package manager.
+Falling back to standalone installation.
+Installing vhttps://github.com/coder/code-server/releases/latest of the amd64 release from GitHub.
+
++ mkdir -p ~/.cache/code-server
++ curl -#fL -o ~/.cache/code-server/code-server-https://github.com/coder/code-server/releases/latest-Windows_NT-amd64.tar.gz.incomplete -C - https://github.com/coder/code-server/releases/download/vhttps://github.com/coder/code-server/releases/latest/code-server-https://github.com/coder/code-server/releases/latest-Windows_NT-amd64.tar.gz
